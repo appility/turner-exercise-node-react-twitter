@@ -1,0 +1,13 @@
+.columns {
+  -webkit-column-count: 1;
+  -moz-column-count: 1;
+  column-count: 1;
+}
+
+@media (min-width: 37.5em)
+ { 
+ .columns {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+}}
