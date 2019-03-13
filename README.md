@@ -1,3 +1,6 @@
+## What this app does
+
+Displays a responsive page, listing recent tweets, using the Twitter API
 
 ## How to run app
 
